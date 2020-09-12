@@ -14,7 +14,7 @@ $ https://github.com/Epic-R-R/YoutubeDL_Bot.git
 ```
 ### Go to directory and run project
 ```console
-$ cd tTodo
+$ cd YoutubeDL_Bot
 ```
 ### Token BOT
 >* *Open the main file with the text editor and place your robot token in the YOUR_TOKEN_BOT location.*
